@@ -1,3 +1,8 @@
+<b>Hey hi techie! WELCOME TO MY BREAST_CANCER_DETECTION PROJECT :)<br>
+oh  wait!! yeah nothing. Haha you can go through this "README" and can read all my highlighted comments for that you can easily understand my code.<br>
+Can't wait to see? AHAHA just kidding !! All the best buddy, Have a great day.</b><br>
+
+
 <b># Breast_Cancer_Detection</b><br>
 
 <b>#import libraries</b><br>
@@ -35,11 +40,11 @@ print(breast_cancer.target_names)<br>
 data.groupby('class').mean()<br>
 
 
-<b>"""0 - Malignant<br>
+<b>"""0 - Malignant<br></b>
 
-1 - Benign<br>
+<b>1 - Benign<br></b>
 
-Now train and test split"""</b><br>
+<b>Now train and test split"""</b><br>
 
 
 
