@@ -120,6 +120,9 @@ if (prediction[0]==0):<br>
 
 else:<br>
   print("The breast cancer is benign")<br>
+  
+  
+<b>"""YEAH CONGRATULATIONS YOU'VE DONE THIS!  :)"""</b>
 
 
 
