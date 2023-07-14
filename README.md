@@ -1,6 +1,6 @@
 <b>Hey hi techie! WELCOME TO MY BREAST_CANCER_DETECTION PROJECT :)<br>
-oh  wait!! yeah nothing. Haha you can go through this "README" and can read all my highlighted comments for that you can easily understand my code.<br>
-Can't wait to see? AHAHA just kidding !! All the best buddy, Have a great day.</b><br>
+Go through this "README" and can read all my highlighted comments for that you can easily understand my code.<br>
+</b><br>
 
 
 <b># Breast_Cancer_Detection</b><br>
